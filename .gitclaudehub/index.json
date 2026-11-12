@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sessions": [
+    {
+      "id": "fa05aefb-e561-4701-9c2e-0c2a11c7c6ae",
+      "title": "give me ONLY 10 random words.",
+      "owner": "joe",
+      "contributors": [
+        "joe"
+      ],
+      "createdAt": "2026-11-12T17:39:31.394Z",
+      "source": "web",
+      "prompts": 1,
+      "updatedAt": "2026-11-12T17:39:31.394Z"
+    }
+  ]
+}
